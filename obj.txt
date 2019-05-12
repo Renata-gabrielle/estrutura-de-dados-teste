@@ -1,0 +1,351 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+char resposta;
+char nome [50];
+
+int main () {
+    
+   
+    
+//1° Pergunta
+    printf("Qual a raca de CORAGEM O CAO COVARDE\n");
+    printf("\nA) Natal\n");2
+    printf("\nB) Fortaleza\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+    printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+//2° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+    
+     //3° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+    
+     //4° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+    
+     //5° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //6° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //7° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //8° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //9° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //10° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //11° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //12° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //13° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //14° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //15° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //16° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //17° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //18° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //19° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+    
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
+
+     //20° pergunta
+    printf("qual a capital do ceará?"\n);
+    printf("\nA) Natal\n");
+    printf("\nB) Ceará\n");
+    printf("\nC) João Pessoa\n");
+    printf("\nD) Santa Catarina\n");
+
+printf("\nDigite sua resposta!");
+    scanf ("%c", &);
+    
+    if (resposta == "D"){
+        printf ("\nResposta correta")
+        pontos<-(pontos + 10)
+    }else{
+        printf ("Resposta incorreta")
+    }
